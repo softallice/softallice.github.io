@@ -61,10 +61,6 @@
             "@id": "ex:companyname",
             "@type": "xsd:string"
         },
-        "website": {
-            "@id": "ex:website",
-            "@type": "xsd:string"
-        },
         "website2": {
             "@id": "ex:website",
             "@type": "xsd:string"
