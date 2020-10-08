@@ -61,7 +61,7 @@
             "@id": "ex:companyname",
             "@type": "xsd:string"
         },
-        "website2": {
+        "website": {
             "@id": "ex:website",
             "@type": "xsd:string"
         }
